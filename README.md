@@ -4,7 +4,7 @@ I’ll **integrate** these keywords smartly into each section without making it 
 
 ---
 
-# 📄 Updated Azure DevOps Resume Template (Optimized for Recruiters' Keywords)
+# 📄 Azure DevOps Resume Template (Optimized for Recruiters' Keywords)
 
 ```
 🧑‍💻 Full Name
